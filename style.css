@@ -1,0 +1,179 @@
+* {
+    font-family: sans-serif;
+}
+.topo_logo {
+    display: inline-flex;
+}
+.topo_logo h2 {
+    margin-top: 1em;
+    margin-left: 0.5em;
+}
+.topo_logo img {
+    margin-top: 1.5em;
+}
+.menu_navegacao_topo {
+    display: inline-flex;
+    margin-top: 2.5em;
+}
+#link_menu {
+    padding: 0 1.5em;
+    text-decoration: none;
+    color: #000000;
+}
+#imagem_aguas {
+    width: 100%;
+    max-height: 600px;
+    margin-top: 2em;
+}
+.t_a_g {
+    text-align: center;
+    margin-top: 4em;
+}
+.card-body {
+    text-align: center;
+}
+#imagem_capital {
+    margin-top: 1em;
+}
+#imagem_apple {
+    margin-top: 1em;
+}
+#imagem_heart {
+    margin-top: 1em;
+}
+#imagem_statistic {
+    margin-top: 1em;
+}
+.card-text {
+    margin-top: 2em;
+}
+.imagens_main {
+    margin-top: 10em;
+}
+.card-title {
+    color: #8fb88f;
+}
+#imagem_beach {
+    width: 100%;
+    max-height: 600px;
+    margin-top: 8em;
+}
+.produtos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+.product_header {
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+}
+.product li:hover {
+	border-color: #C78C19;
+}
+
+.product li:active {
+	border-color: #088C19;	
+}
+
+.product li:hover h3 {
+	font-size: 34px;
+}
+.product h3 {
+	font-size: 30px;
+	font-weight: bold;
+    width: 100%;
+}
+.product li a img {
+    width: 100%;
+}
+.product_picture div img {
+    width: 100%;
+}
+.btn {
+    border-radius: 4px;
+    border-style: none;
+    background-color: #8fb88f;
+}
+.btn:hover {
+    background-color: #088C19;
+    transition: 1.5s;
+}
+.card-img-top {
+    height: 50%;
+}
+.produtos-grid {
+    display: flex;
+}
+.ul_products {
+    display: inline-flex;
+}
+.Product {
+    margin: 5px;
+}
+#myBtnContainer button {
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: none;
+}
+#myBtnContainer button:hover {
+    background-color: #8fb88f;
+    transition: 0.5s;
+    color: #ffffff;
+}
+.other {
+    max-width: 300px;
+    flex-basis: 1;
+    flex-shrink: 1;
+}
+.css3 {
+    max-width: 300px;
+    flex-basis: 1;
+    flex-shrink: 1;
+}
+.html5 {
+    max-width: 300px;
+    flex-basis: 1;
+    flex-shrink: 1;
+}
+.webdesigner {
+    max-width: 300px;
+    flex-basis: 1;
+    flex-shrink: 1;
+}
+.row {
+    height: 100%;
+    width: 100%;
+}
+.mais-class {
+    text-align: center;
+}
+#mais {
+    border-radius: 4px;
+    border-style: hidden;
+}
+.title-main-toppon {
+    display: grid;
+    justify-items: center;
+    margin-top: 5em;
+}
+.background-main {
+    background-image: url(./imagens/Praia-Brava-em-Florianópolis.-Foto_-Marcos-Campos-scaled.jpg);
+}
+#original-title {
+    margin-top: 2em;
+}
+.agregador-flex {
+    display: inline-flex;
+}
+.background-main-filha {
+    margin: 3em 4.5em;
+}
+#link-title-two {
+    text-decoration: none;
+    color: #000000;
+}
+#legend-title-two {
+    margin: 2em auto;
+}
